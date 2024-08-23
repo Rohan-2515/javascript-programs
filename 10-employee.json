@@ -1,0 +1,10 @@
+{
+    "id": 11,
+    "fullName": "Elon Musk",
+    "isMarried": true,
+    "Mobiles": ["98222 9192 21", "8585 4545 77","8855 9988 55"],
+    "address": {
+        "flatNumber": "82",
+        "pincode": "403309"
+    }
+}
